@@ -19,7 +19,11 @@
 ## Projects
 <div >
     <a href="https://play.google.com/store/apps/details?id=com.reelax.influencer" >
-    <img src="https://img.shields.io/badge/Reelax Influencer Live App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+    <img src="https://img.shields.io/badge/Reelax Admin Mobile App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+<br/>
+    <a href="https://play.google.com/store/apps/details?id=com.reelax.ads" >
+    <img src="https://img.shields.io/badge/Reelax Brand Mobile App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a> 
 <br/>
    
