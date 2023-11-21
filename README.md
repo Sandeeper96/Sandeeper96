@@ -36,7 +36,7 @@
   </a> 
  <br/>
   <a href="https://momeals.in/" >
-    <img src="https://img.shields.io/badge/Momeals Foundation Live App App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+    <img src="https://img.shields.io/badge/Momeals Foundation Live App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a>
  <br/>
 
