@@ -16,14 +16,30 @@
  </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandeeper96&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeeper96" /> </p>
+## Projects
+<div >
+    <a href="https://play.google.com/store/apps/details?id=com.reelax.influencer" >
+    <img src="https://img.shields.io/badge/Reelax Influencer Live App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+<br/>
+   
+   <a href="https://brands.getreelax.com/" >
+    <img src="https://img.shields.io/badge/Reelax Brand Web App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+ <br/>
+  <a href="https://admin.getreelax.com/" >
+    <img src="https://img.shields.io/badge/Reelax Admin Web App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+ <br/>
+  <a href="https://momeals.in/" >
+    <img src="https://img.shields.io/badge/Momeals Foundation Live App App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a>
+ <br/>
 
-- 🔭 I’m currently working on [Meesho](https://github.com/Sandeeper96/Meesho-Clone---React-Project---d780h41uwta9.git)
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **sandeeper96@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
+  <br>
+  Click :star:if you like the project. Pull Requests are highly appreciated.
+</div>
+<hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/skumarsandeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha tiwari" height="30" width="40" /></a>
 
